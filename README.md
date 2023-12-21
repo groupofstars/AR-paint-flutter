@@ -1,6 +1,4 @@
-# new1
-
-A new Flutter project.
+# AR painting mobile app
 
 ## Getting Started
 
